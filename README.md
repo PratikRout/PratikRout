@@ -1,5 +1,5 @@
 # _Hi there_ 👋
-## *This is Pratik Kumar Rout* ✨
+## **This is Pratik Kumar Rout** ✨
 
 <!--
 **PratikRout/PratikRout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
