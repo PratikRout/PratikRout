@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with internships.
 - 💬 Ask me about : What makes me tick..
 - 📫 How to reach me: You can reach me at pathikdas45@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Lots of fun facts about me ;)
 
