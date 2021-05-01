@@ -1,6 +1,6 @@
 # _Hi there_ 👋
 ## **This is Pratik Kumar Rout** ✨
-### **FULL STACK WEB DEVELOPMENT ENTHUSIAST & COMPETITIVE CODER**
+### **FULL STACK WEB DEVELOPMENT ENTHUSIAST & ASPIRING COMPETITIVE CODER**
  _I'm from Bhubaneswar, Odisha and currently pursuing my B.Tech from National Institute of Technology, Agartala in the field of Computer Science & Engineering. I am presently in the 3rd year and I am actively looking forward to working with IT companies where I would be able to showcase my skills._
 
 <!--
