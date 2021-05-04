@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=PratikRout&show_icons=true&theme=great-gatsby)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PratikRout&show_icons=true&theme=great-gatsby&langs_count=8&layout=compact)](https://github.com/PratikRout/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PratikRout&show_icons=true&theme=great-gatsby&langs_count=10 &layout=compact)](https://github.com/PratikRout/github-readme-stats)
