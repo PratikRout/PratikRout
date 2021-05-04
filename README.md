@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Lots of fun facts about me ;)
 
 
-## ![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=PratikRout) 
+![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=PratikRout&show_icons=true&theme=merko)
 
 ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PratikRout)](https://github.com/anuraghazra/github-readme-stats)
