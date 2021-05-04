@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Lots of fun facts about me ;)
 
+
+## ![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=PratikRout) 
